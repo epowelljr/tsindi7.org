@@ -1,0 +1,6 @@
+drwxr-xr-x    2 epwebpor   epwebpor          101 Apr  3  2018 .
+drwxr-xr-x    7 epwebpor   epwebpor         4096 Apr  3  2018 ..
+-rw-r--r--    1 epwebpor   epwebpor         2821 Apr  3  2018 core.test
+-rw-r--r--    1 epwebpor   epwebpor         2522 Apr  3  2018 input_filters.test
+-rw-r--r--    1 epwebpor   epwebpor          315 Apr  3  2018 twitter_mock.info
+-rw-r--r--    1 epwebpor   epwebpor         7741 Apr  3  2018 twitter_mock.module

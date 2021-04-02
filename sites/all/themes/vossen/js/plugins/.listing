@@ -1,0 +1,17 @@
+drwxr-xr-x    2 epwebpor   epwebpor         4096 Apr  3  2018 .
+drwxr-xr-x    3 epwebpor   epwebpor           58 Apr  3  2018 ..
+-rw-r--r--    1 epwebpor   epwebpor        35603 Apr  3  2018 bootstrap.min.js
+-rw-r--r--    1 epwebpor   epwebpor         1068 Apr  3  2018 counterup.min.js
+-rw-r--r--    1 epwebpor   epwebpor        60536 Apr  3  2018 cubeportfolio.min.js
+-rw-r--r--    1 epwebpor   epwebpor         3597 Apr  3  2018 easign1.3.min.js
+-rw-r--r--    1 epwebpor   epwebpor        29737 Apr  3  2018 gmap3.min.js
+-rw-r--r--    1 epwebpor   epwebpor        96380 Apr  3  2018 jquery.min.js
+-rw-r--r--    1 epwebpor   epwebpor        26179 Apr  3  2018 masonry.js
+-rw-r--r--    1 epwebpor   epwebpor        15245 Apr  3  2018 moderniz.min.js
+-rw-r--r--    1 epwebpor   epwebpor        24158 Apr  3  2018 owlcarousel.min.js
+-rw-r--r--    1 epwebpor   epwebpor          940 Apr  3  2018 parallax.min.js
+-rw-r--r--    1 epwebpor   epwebpor       211653 Apr  3  2018 revslider.min.js
+-rw-r--r--    1 epwebpor   epwebpor         4989 Apr  3  2018 smoothscroll.min.js
+-rw-r--r--    1 epwebpor   epwebpor         2482 Apr  3  2018 tweetie.min.js
+-rw-r--r--    1 epwebpor   epwebpor         8064 Apr  3  2018 waypoints.min.js
+-rw-r--r--    1 epwebpor   epwebpor         3421 Apr  3  2018 wow.min.js

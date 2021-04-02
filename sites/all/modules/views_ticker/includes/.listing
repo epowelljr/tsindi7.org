@@ -1,0 +1,5 @@
+drwxr-xr-x    2 epwebpor   epwebpor          106 Mar 20  2019 .
+drwxr-xr-x    4 epwebpor   epwebpor          172 Mar 20  2019 ..
+-rw-r--r--    1 epwebpor   epwebpor         1488 Mar 20  2019 views-ticker-view.tpl.php
+-rw-r--r--    1 epwebpor   epwebpor         3185 Mar 20  2019 views_ticker.views.inc
+-rw-r--r--    1 epwebpor   epwebpor         4730 Mar 20  2019 views_ticker_style_plugin.inc

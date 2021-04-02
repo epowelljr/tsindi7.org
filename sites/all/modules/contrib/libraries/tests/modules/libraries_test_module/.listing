@@ -1,0 +1,8 @@
+drwxrwxr-x    2 epwebpor   epwebpor          217 Oct  5  2018 .
+drwxrwxr-x    3 epwebpor   epwebpor           35 Oct  5  2018 ..
+-rw-rw-r--    1 epwebpor   epwebpor          203 Oct  5  2018 libraries_test_module.css
+-rw-rw-r--    1 epwebpor   epwebpor          174 Oct  5  2018 libraries_test_module.inc
+-rw-rw-r--    1 epwebpor   epwebpor          296 Oct  5  2018 libraries_test_module.info
+-rw-rw-r--    1 epwebpor   epwebpor          396 Oct  5  2018 libraries_test_module.js
+-rw-rw-r--    1 epwebpor   epwebpor        22971 Oct  5  2018 libraries_test_module.module
+-rw-rw-r--    1 epwebpor   epwebpor          326 Oct  5  2018 libraries_test_module_post_load.inc

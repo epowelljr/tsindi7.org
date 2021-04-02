@@ -1,0 +1,10 @@
+drwxr-xr-x    4 epwebpor   epwebpor          172 Mar 20  2019 .
+drwxr-xr-x   15 epwebpor   epwebpor          259 Mar 20  2019 ..
+-rw-r--r--    1 epwebpor   epwebpor           11 Mar 20  2019 .cvsignore
+-rw-r--r--    1 epwebpor   epwebpor        14940 Mar 20  2019 LICENSE.txt
+-rw-r--r--    1 epwebpor   epwebpor          608 Mar 20  2019 README.txt
+drwxr-xr-x    2 epwebpor   epwebpor          106 Mar 20  2019 includes
+drwxr-xr-x    2 epwebpor   epwebpor          118 Mar 20  2019 js
+-rw-r--r--    1 epwebpor   epwebpor         1541 Mar 20  2019 views.ticker.scroller.css
+-rw-r--r--    1 epwebpor   epwebpor          391 Mar 20  2019 views_ticker.info
+-rw-r--r--    1 epwebpor   epwebpor          843 Mar 20  2019 views_ticker.module

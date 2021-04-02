@@ -1,0 +1,10 @@
+drwxr-xr-x    4 epwebpor   epwebpor          181 Apr  3  2018 .
+drwxr-xr-x   26 epwebpor   epwebpor         4096 Nov  1  2018 ..
+-rw-r--r--    1 epwebpor   epwebpor        18092 Apr  3  2018 LICENSE.txt
+-rw-r--r--    1 epwebpor   epwebpor          817 Apr  3  2018 README.md
+-rw-r--r--    1 epwebpor   epwebpor         7538 Apr  3  2018 jquery_update.admin.inc
+-rw-r--r--    1 epwebpor   epwebpor          335 Apr  3  2018 jquery_update.info
+-rw-r--r--    1 epwebpor   epwebpor         3172 Apr  3  2018 jquery_update.install
+-rw-r--r--    1 epwebpor   epwebpor        23622 Apr  3  2018 jquery_update.module
+drwxr-xr-x    2 epwebpor   epwebpor           30 Apr  3  2018 js
+drwxr-xr-x    6 epwebpor   epwebpor           71 Apr  3  2018 replace

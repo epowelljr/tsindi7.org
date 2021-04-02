@@ -1,0 +1,16 @@
+drwxr-xr-x    2 epwebpor   epwebpor          324 Apr  3  2018 .
+drwxr-xr-x   26 epwebpor   epwebpor         4096 Nov  1  2018 ..
+-rw-r--r--    1 epwebpor   epwebpor         1970 Apr  3  2018 INSTALL.txt
+-rw-r--r--    1 epwebpor   epwebpor        18092 Apr  3  2018 LICENSE.txt
+-rw-r--r--    1 epwebpor   epwebpor         3414 Apr  3  2018 README.txt
+-rw-r--r--    1 epwebpor   epwebpor        16770 Apr  3  2018 pathauto.admin.inc
+-rw-r--r--    1 epwebpor   epwebpor         9201 Apr  3  2018 pathauto.api.php
+-rw-r--r--    1 epwebpor   epwebpor        25217 Apr  3  2018 pathauto.inc
+-rw-r--r--    1 epwebpor   epwebpor          453 Apr  3  2018 pathauto.info
+-rw-r--r--    1 epwebpor   epwebpor         9030 Apr  3  2018 pathauto.install
+-rw-r--r--    1 epwebpor   epwebpor          571 Apr  3  2018 pathauto.js
+-rw-r--r--    1 epwebpor   epwebpor         1353 Apr  3  2018 pathauto.migrate.inc
+-rw-r--r--    1 epwebpor   epwebpor        39191 Apr  3  2018 pathauto.module
+-rw-r--r--    1 epwebpor   epwebpor         7647 Apr  3  2018 pathauto.pathauto.inc
+-rw-r--r--    1 epwebpor   epwebpor        39101 Apr  3  2018 pathauto.test
+-rw-r--r--    1 epwebpor   epwebpor         1195 Apr  3  2018 pathauto.tokens.inc
